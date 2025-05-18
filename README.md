@@ -1,4 +1,5 @@
-AI Blog Summarizer
+# AI Blog Summarizer
+
 AI Blog Summarizer is a full-stack web application that leverages AI to generate concise summaries of blog articles. Built with a modern tech stack, it streamlines the process of digesting lengthy content.
 
 # 🚀 Features
