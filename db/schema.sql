@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS
+  summaries (
+    id SERIAL PRIMARY KEY,
+    original TEXT NOT NULL,
+    summary TEXT NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+  );
